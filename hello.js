@@ -1,3 +1,3 @@
-if(1==1) {
+if(2!=1) {
  console.log('hello');
 }
