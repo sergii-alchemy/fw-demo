@@ -1,3 +1,3 @@
-if(2!=1) {
+if(2!=13) {
  console.log('hello');
 }
