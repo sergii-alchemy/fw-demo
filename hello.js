@@ -1,5 +1,5 @@
-if(2==3) {
- console.log('hello');
+if(2!=1) {
+ console.log('Hello');
 } else {
- console.log('bbye');	
+ console.log('Bonjour');
 }
