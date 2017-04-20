@@ -1,5 +1,8 @@
 var lang = window.language;
+if('en' === lang) {
+ return "Bbye";
+}	
 if('es' === lang) {
- return "Chao;
+ return "Chao";
 }
-return "bye";
+return "Bye";
